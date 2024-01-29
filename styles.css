@@ -1,0 +1,65 @@
+body {
+  
+    .center-image {
+      display: block;
+      margin: 0 auto;
+    }
+   
+    background-image: url(nature.jpg);
+    background-repeat: no repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+      p  {
+        text-align: justify ;
+        font-family: courier new;
+        color: black;
+        }
+        p strong {
+          text-align: justify;
+          font-family: courier new;
+          color: black;
+          }
+      h2 {
+        text-align: left ;
+        font-family: courier new;
+        color: black;
+        }
+        
+      li  {
+        text-align: justify;
+        font-family: courier new;
+        color: black;
+        }
+      h1 {
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(from color r g b)
+        }
+        h3  {
+          text-align: justify;
+          font-family: courier new;
+          color: black;
+          }
+        
+  .transparent{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  }
+  
+  button {
+    background-color: lightblue;
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  
+  
+        
+    }
+    
